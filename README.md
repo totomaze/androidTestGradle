@@ -24,6 +24,6 @@ The output should be a ListView that displays each matching movies details (titl
 
 ### Result
 
-I created a simple activity with a field for the search and icon button to start the search. I wasn't specified in the overview that is why I initialized the search with the word Android.
+I created a simple activity with a field for the search and icon button to start the search. It wasn't specified in the overview that is why I initialized the search with the word Android.
 The search with the word Android returns 11 items. I used the default parameters for the Page and Page Limit, so if you do a search that returns more than 30 items the App test will only shows the first 30 items.
 
